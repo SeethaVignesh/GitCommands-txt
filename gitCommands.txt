@@ -1,0 +1,18 @@
+pwd - present working directory
+mkdir - make directory
+cd - change directory
+cd .. -one step backward
+ls -lrt - list the files with date and time
+
+
+1.git config --global user.name "username"
+2.git config --global user.name "emailid@gmail.com"
+3.git clone repository_link
+4.change the code in visual studio code
+5.cd repository_folder
+6.git status
+7.git add filename
+8.git status
+9.git commit -m "I added a platform for my game"
+10.git remote add test repository_link
+11.git push -u repository_link
